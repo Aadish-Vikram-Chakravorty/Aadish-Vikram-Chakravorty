@@ -17,6 +17,7 @@ Data Structures & Algorithms in Java
 
 
 ## 📈 GitHub Stats:
+![Aadish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadish-Vikram-Chakravorty&show_icons=true&theme=radical)
 
 
 ## 🤝 Connect with Me:
