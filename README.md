@@ -22,14 +22,8 @@ Data Structures & Algorithms in Java
 
 ## 🤝 Connect with Me:
 
-### Connect with Me:
-<a href="https://www.linkedin.com/in/aadishvikram" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
-</a>
-<a href="https://leetcode.com/AadishVikram" target="_blank">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40"/>
-</a>
-<a href="https://github.com/AadishVikram" target="_blank">
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadishvikram)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/AadishVikram)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AadishVikram)
+
 
