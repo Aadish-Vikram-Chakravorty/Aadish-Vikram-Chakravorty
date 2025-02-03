@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Aadish Vkram Chakravorty
 
-*I am currently pursuing my B.Tech from VIT Bhopal University
+## I am currently pursuing my B.Tech from VIT Bhopal University
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
