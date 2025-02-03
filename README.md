@@ -3,6 +3,9 @@
 ## About Me 
 I'm a passionate Front-end Developer and a third-year Engineering Student with a keen interest Web Development, and Software Engineering. Currently, I'm preparing for a software engineering internship and actively working on projects related to React, Java, and Data Structures & Algorithms.
 
+## Languages Used:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadish-Vikram-Chakravorty&layout=compact&theme=dark&langs_count=6)
+
 
 ## 🚀 Tech Stack:
 
