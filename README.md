@@ -1,7 +1,13 @@
-## Hi there 👋 I am Aadish Vkram Chakravorty
+# Hi there 👋 I am Aadish Vkram Chakravorty
 
 ## About Me 
-I'm a passionate Front-end Developer and a third-year Engineering Student with a keen interest Web Development, and Software Engineering. Currently, I'm preparing for a software engineering internship and actively working on projects related to React, Java, and Data Structures & Algorithms.
+I'm a passionate Front-end Developer and a third-year Engineering Student and tech enthusiast on a journey to turn ideas into impactful digital experiences.
+
+I enjoy contributing to open-source, participating in hackathons, and constantly pushing my boundaries to learn and grow.
+
+When I'm not coding, you'll find me exploring new things, reading books while listening to music, or working on creative side projects. 
+
+Let's connect and create something awesome together!
 
 
 
