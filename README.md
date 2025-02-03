@@ -6,6 +6,7 @@ I'm a passionate Front-end Developer and a third-year Engineering Student with a
 ## 🚀 Tech Stack:
 
 
+
 ## 🧠 Currently Learning:
 Full-Stack Development
 
@@ -22,8 +23,8 @@ Data Structures & Algorithms in Java
 
 ## 🤝 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadishvikram)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/AadishVikram)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AadishVikram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadish-vikram-chakravorty/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aadish0104/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadish-Vikram-Chakravorty)
 
 
