@@ -1,6 +1,4 @@
-<div align="center">
-
-# Hi there 👋 I am Aadish Vkram Chakravorty
+# Hi there 👋 I am Aadish Vkram Chakravorty         
 
 ## About Me 
 I'm a Final-year Engineering Student and passionate Front-end Developer and a tech enthusiast on a journey to turn ideas into impactful digital experiences.
@@ -13,7 +11,7 @@ Let's connect and create something awesome together!
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadish-Vikram-Chakravorty&layout=compact&theme=tokyonight&langs_count=8)
+<div align="center">
 
 
 ## 🚀 Tech Stack:
@@ -40,7 +38,6 @@ Let's connect and create something awesome together!
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 
-
 ## 🧠 Currently Learning:
 Full-Stack Development
 
@@ -51,14 +48,14 @@ Data Structures & Algorithms in Java
 ## 📈 GitHub Stats:
 ![Aadish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadish-Vikram-Chakravorty&show_icons=true&theme=ambient-gradient)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aadish-Vikram-Chakravorty&theme=ambient-gradient&hide_border=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadish-Vikram-Chakravorty&layout=compact&theme=tokyonight&langs_count=8)
 
 ## 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aadish-Vikram-Chakravorty&theme=github&area=true&hide_border=true)
 
-
 ## ![Profile Views](https://komarev.com/ghpvc/?username=Aadish-Vikram-Chakravorty&color=green&style=for-the-badge)
+
 
 ## 🤝 Connect with Me:
 
@@ -66,7 +63,6 @@ Data Structures & Algorithms in Java
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aadish0104/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadish-Vikram-Chakravorty)
 
-<div align="center">
 
 ### Show some ❤️ by starring some of my repositories!
 
