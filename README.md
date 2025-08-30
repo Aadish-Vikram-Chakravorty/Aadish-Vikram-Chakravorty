@@ -1,7 +1,7 @@
 # Hi there 👋 I am Aadish Vkram Chakravorty
 
 ## About Me 
-I'm a third-year Engineering Student and passionate Front-end Developer and a tech enthusiast on a journey to turn ideas into impactful digital experiences.
+I'm a Final-year Engineering Student and passionate Front-end Developer and a tech enthusiast on a journey to turn ideas into impactful digital experiences.
 
 I enjoy contributing to open-source, participating in hackathons, and constantly pushing my boundaries to learn and grow.
 
