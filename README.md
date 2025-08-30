@@ -48,6 +48,13 @@ Data Structures & Algorithms in Java
 
 ## 📈 GitHub Stats:
 ![Aadish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadish-Vikram-Chakravorty&show_icons=true&theme=ambient-gradient)
+![GitHub Streak](https://streak-stats.demolab.com?user=Aadish-Vikram-Chakravorty&theme=ambient-gradient&hide_border=true)
+
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aadish-Vikram-Chakravorty&theme=github&area=true&hide_border=true)
+
 
 ## ![Profile Views](https://komarev.com/ghpvc/?username=Aadish-Vikram-Chakravorty&color=green&style=for-the-badge)
 
