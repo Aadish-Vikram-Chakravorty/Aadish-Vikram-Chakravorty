@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there 👋 I am Aadish Vkram Chakravorty
 
 ## About Me 
@@ -64,4 +66,8 @@ Data Structures & Algorithms in Java
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aadish0104/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadish-Vikram-Chakravorty)
 
+<div align="center">
 
+### Show some ❤️ by starring some of my repositories!
+
+</div>
