@@ -1,5 +1,11 @@
 # Hi there 👋 I am Aadish Vkram Chakravorty         
 
+
+<div align="center" width="100svw">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=36&duration=4000&pause=500&color=fff&center=true&vCenter=true&width=800&lines=Hi+I'm+Aadish+Vikram+Chakravorty!;Apple+Developer+%7C+Fullstack+Web+Developer;Building+The+Future+One+Commit+At+A+Time" alt="Aadish Vikram Chakravorty" />
+</div>
+
+
 ## About Me 
 I'm a Final-year Engineering Student and passionate Front-end Developer and a tech enthusiast on a journey to turn ideas into impactful digital experiences.
 
