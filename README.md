@@ -22,10 +22,10 @@ Let's connect and create something awesome together!
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"/><br/>Python
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/javascript-icon.svg" width="45"/><br/>JavaScript
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45"/><br/>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/typescript-icon.svg" width="45"/><br/>TypeScript
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45"/><br/>TypeScript
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45"/><br/>Java
@@ -52,7 +52,7 @@ Let's connect and create something awesome together!
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="45"/><br/>Redux
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/flask-icon.svg" width="45"/><br/>Flask
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"/><br/>Github
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git&theme=dark" width="45"/><br/>Git
@@ -61,19 +61,19 @@ Let's connect and create something awesome together!
 
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/><br/>GitHub
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="45"/><br/>GitHub
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45"/><br/>Docker
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="45"/><br/>AWS
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45"/><br/>AWS
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="45"/><br/>Postman
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=idea&theme=dark" width="45"/><br/>IntelliJ
+      <img src="https://img.shields.io/badge/WebSockets-0A0A0A?style=for-the-badge&logo=socket.io&logoColor=white" width="45"/><br/>WebSockets
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="45"/><br/>VS Code
@@ -82,7 +82,7 @@ Let's connect and create something awesome together!
 
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/firebase-icon.svg" width="45"/><br/>Firebase
+      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="45"/><br/>Firebase
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="45"/><br/>PostgreSQL
@@ -91,7 +91,10 @@ Let's connect and create something awesome together!
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45"/><br/>MySQL
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/redis-icon.svg" width="45"/><br/>Redis
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="45"/><br/>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="45"/><br/>Redis
     </td>
   </tr>
 </table>
