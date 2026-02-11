@@ -16,26 +16,85 @@ Let's connect and create something awesome together!
 
 ## 🚀 Tech Stack:
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"/><br/>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/javascript-icon.svg" width="45"/><br/>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/typescript-icon.svg" width="45"/><br/>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45"/><br/>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45"/><br/>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45"/><br/>React
+    </td>
+  </tr>
 
-### :robot: Front-end Tools
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="45"/><br/>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="45"/><br/>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="45"/><br/>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="45"/><br/>Redux
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/flask-icon.svg" width="45"/><br/>Flask
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="45"/><br/>Git
+    </td>
+  </tr>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/><br/>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45"/><br/>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="45"/><br/>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="45"/><br/>Postman
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=idea&theme=dark" width="45"/><br/>IntelliJ
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="45"/><br/>VS Code
+    </td>
+  </tr>
 
-### Databases and Libraries
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/firebase-icon.svg" width="45"/><br/>Firebase
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="45"/><br/>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45"/><br/>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/redis-icon.svg" width="45"/><br/>Redis
+    </td>
+  </tr>
+</table>
 
 
 ## 🧠 Currently Learning:
