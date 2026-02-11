@@ -121,9 +121,58 @@ Data Structures & Algorithms in Java
 
 ## 🤝 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadish-vikram-chakravorty/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aadish0104/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadish-Vikram-Chakravorty)
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/Aadish-Vikram-Chakravorty">
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" width="60"/><br/>
+        <strong>GitHub</strong>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://www.linkedin.com/in/aadish-vikram-chakravorty/">
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="60"/><br/>
+        <strong>LinkedIn</strong>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://discordapp.com/users/1182347614423883941">
+        <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="60"/><br/>
+        <strong>Discord</strong>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="mailto:aadishchakravorty@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="60"/><br/>
+        <strong>Gmail</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://twitter.com/iamaadvik">
+        <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="60"/><br/>
+        <strong>Twitter</strong>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://www.snapchat.com/add/vikramaadish">
+        <img src="https://skillicons.dev/icons?i=snapchat&theme=dark" width="60"/><br/>
+        <strong>Snapchat</strong>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://www.instagram.com/adrovik_naline/">
+        <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="60"/><br/>
+        <strong>Instagram</strong>
+      </a>
+    </td>
+    <!-- <td align="center" width="160">
+      <!-- empty cell for symmetry -->
+    </td> -->
+  </tr>
+</table>
+
 
 
 ### Show some ❤️ by starring some of my repositories!
