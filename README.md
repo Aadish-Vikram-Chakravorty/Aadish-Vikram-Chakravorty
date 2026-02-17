@@ -169,7 +169,7 @@ Data Structures & Algorithms in Java
     </td>
     <!-- <td align="center" width="160">
       <!-- empty cell for symmetry -->
-    </td> -->
+    </td>
   </tr>
 </table>
 
