@@ -61,7 +61,7 @@ Let's connect and create something awesome together!
 
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="45"/><br/>GitHub
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="45"/><br/>REST APIs
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45"/><br/>Docker
